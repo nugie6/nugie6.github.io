@@ -1,2 +1,1 @@
-# nugie6.github.io
-testing
+https://nugie6.github.io/
